@@ -1,0 +1,6 @@
+[[schedules]]
+schedule = "CosAnneal"
+epochs = 100
+max_lr = 5e-3
+min_lr = 5e-5
+period = 25

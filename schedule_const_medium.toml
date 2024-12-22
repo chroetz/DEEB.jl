@@ -1,0 +1,4 @@
+[[schedules]]
+schedule = "Constant"
+epochs = 100
+lr = 1e-3

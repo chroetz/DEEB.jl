@@ -1,0 +1,12 @@
+# [[schedules]]
+# schedule = "LinearRamp"
+# epochs = 10
+# max_lr = 5e-3
+# min_lr = 1e-7
+
+[[schedules]]
+schedule = "CosAnneal"
+epochs = 50
+max_lr = 5e-3
+min_lr = 5e-5
+period = 25

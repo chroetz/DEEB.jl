@@ -1,0 +1,5 @@
+[[schedules]]
+schedule = "LinearRamp"
+epochs = 100
+max_lr = 5e-3
+min_lr = 1e-7
